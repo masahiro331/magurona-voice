@@ -19,7 +19,7 @@ $ magurona-voice つよつよ
 
 ### Install
 
-releaseから落としてください
+https://github.com/masahiro331/magurona-voice/releases
 
 
 --- 
